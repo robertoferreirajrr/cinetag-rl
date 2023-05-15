@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com o objetivo de demonstrar o uso de componentes 
 
 O trabalho executado pode ser visualizado na Vercel:
 
-https://blog-rl-robertoferreirajrr.vercel.app/
+https://cinetag-rl.vercel.app/
 
 ## Como iniciar!?
 
