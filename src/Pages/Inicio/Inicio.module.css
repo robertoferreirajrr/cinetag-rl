@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.capa {
+    width: 100%;
+}
+
+.container h2,
+.favoritar {
+    padding: 0 1em;
+}
+
+.favoritar {
+    width: 25px;
+}
